@@ -1,6 +1,6 @@
 {
   "name": "com.yosoi.zap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Zap",
   "description": "A simple and flexible toolkit for Unity.",
   "unity": "2019.3",
